@@ -1,0 +1,22 @@
+{
+  "name": "Discord Waver",
+  "description": "Based on Work done by lordkrandel!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/waver16.png",
+      "32": "/images/waver32.png",
+      "48": "/images/waver48.png",
+      "128": "/images/waver128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/waver16.png",
+    "32": "/images/waver32.png",
+    "48": "/images/waver48.png",
+    "128": "/images/waver128.png"
+  }
+}
